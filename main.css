@@ -1,0 +1,9 @@
+.biography{
+    background-color: red;
+
+}
+
+.summary{
+    background-color: green;
+    display: inline-block;
+}
